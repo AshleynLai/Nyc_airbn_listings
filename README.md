@@ -9,7 +9,7 @@
 2. Project Overview
   - Objective: Explore Airbnb listings in NYC focused on correlations among multiple conditions such as price vs neighbourhood crime rate, price vs property type, rating vs neighbourhood crime rate, etc.
   - Steps taken :
-      - Data cleaning using Python (Google Colab)
+      - Data cleaning using pandas (Google Colab)
       - Data exploring using SQL (Mysql Workbench)
       - Data visualization using Power BI
         
